@@ -3,6 +3,7 @@
 This project is an end-to-end data informatics pipeline designed to monitor pandemic trends across **Pakistan, China, Iran, and Afghanistan**. By bridging raw data engineering in Python with interactive visualization in Power BI, this tool provides actionable insights into regional healthcare stress.
 
 ![Final Dashboard Overview]
+
 (<img width="1312" height="745" alt="image" src="https://github.com/user-attachments/assets/68be7a37-7cde-428e-bea8-27c913fe7615" />)
 
 ## 🛠️ Technical Workflow
