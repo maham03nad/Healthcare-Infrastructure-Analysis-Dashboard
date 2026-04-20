@@ -4,7 +4,7 @@ This project is an end-to-end data informatics pipeline designed to monitor pand
 
 ![Final Dashboard Overview]
 
-(<img width="1312" height="745" alt="image" src="https://github.com/user-attachments/assets/68be7a37-7cde-428e-bea8-27c913fe7615" />)
+<img width="1312" height="745" alt="image" src="https://github.com/user-attachments/assets/68be7a37-7cde-428e-bea8-27c913fe7615" />
 
 ## 🛠️ Technical Workflow
 1. **Data Engineering (Python):** - Processed **400,000+ rows** of global health data.
